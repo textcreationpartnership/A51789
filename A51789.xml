@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The manner of procession to the Parliament-house in Scotland with His Majesties letter to the Parliament, the lord high commissioners speech, the lord high chancellors speech, and the Parliaments answer.</title>
+         </titleStmt>
+         <extent>Approx. 36KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51789</idno><idno type="EEBO-CITATION">18661064</idno>
+  <idno type="VID">108115</idno>
+  <idno type="EEBO-PROQUEST">2240854384</idno>
+  
+            <idno type="STC">Wing M460</idno>
+            <idno type="STC">ESTC R40022</idno>
+            <idno type="OCLC">18661064</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A51789)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108115)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1657:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The manner of procession to the Parliament-house in Scotland with His Majesties letter to the Parliament, the lord high commissioners speech, the lord high chancellors speech, and the Parliaments answer.</title>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed for Andrew Crook, and Samuel Helsham and are to be sold by Samuel Helsham ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>At head of title: April 23. 1685.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701.</term>
+               <term type="corporate_name">Scotland. --  Parliament.</term>
+               <term type="geographic_name">Scotland --  History --  1660-1688.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:108115:1"/>
+            <pb n="1" facs="tcp:108115:1"/>
+            <head>April 23. 1685. The manner of Procession to the Parliament-House in Scotland, with His Majesties Letter to the Parliament; The Lord High Commis<g ref="char:EOLhyphen"/>sioners Speech; The Lord High Chancellors Speech, and the Parliaments Answer.</head>
+            <p>
+               <hi>THis morning about nine a Clock (being the day appointed for opening of the Parliament) the Duke of <hi>Queensberry,</hi> his Majesties High Commissioner called a Council in the Abby, where a Patent under the Great Seal, creating Secretary Lundin Viscount of Melfort, Lord Drummond of Gilstoun, &amp;c. Being read in Council, was ordered to be recorded; And thereafter Sir Tho<g ref="char:EOLhyphen"/>mas Kirk patrick of Closeburn, and Sir Robert Laurie of Maxwelltoun, who had formerly received Patents from his Majesty as Baronets, were Dub'd by h<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Grace with the Sword of State.</hi>
+            </p>
+            <p>
+               <hi>About ten a Clock the Cavalcade began, the Streets from the Palace to the Neather Bow being on both sides guarded by his Majesties Regiment of Foot-Guards in excellent order, and all very fine in their new Arms and Liveries, from the Neather Bow to the Constables Guard at the outer Gate of the Parliament Court the Streets were railed on each side, and guarded by twenty six companies of the Train-bands, and the City M<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>litia Regiment all in good order.</hi>
+            </p>
+            <p>
+               <hi>About half an hour before the rest, the Earl of Perth Lord High Chancellor, and the Marquess of Athole Lord Privy Seal, the Earl of Kinto<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Lord Thesaurer Deputy, and the Lord Register now Viscount of Tar<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t rode up in their Robes, the Chancellors Purse and Mace being carried before his Lordship, and the Lord Thesaurer Deputy carrying a white Rod, being the Badge of his Office, as Comptroller of his Majesties House<g ref="char:EOLhyphen"/>hold.</hi>
+            </p>
+            <p>Sometime there after the Cavalcade began in this manner.</p>
+            <list>
+               <item>Two Trumpets in their Coats and Banners bare-headed, to usher the way.</item>
+               <item>Two Pursevants in their Coats with foot-mantles, to usher the way.</item>
+               <item> All very fine with their Foot-man<g ref="char:EOLhyphen"/>tles and trapping conform.
+<list>
+                     <item>The Commissioners for Burghs, two and two, </item>
+                     <item>The Commissioners for Shires, two and two,</item>
+                     <item>The Lord Advocate &amp; Lord Justice Clerk in their Gowns </item>
+                     <item>The Lords or Barons of Parliament in their Robes</item>
+                  </list>
+               </item>
+               <item>The Bishops two and two</item>
+               <item>The Viscounts in their Robes</item>
+               <item>The Earls in their Robes, two and two</item>
+               <item>The two Archbishops</item>
+               <item>Four Trumpets in their Coats with Banners, bare-headed, two a-breast</item>
+               <item>Four Pursevants in their Coats with Foot-mantles bare-headed, two a-breast</item>
+               <pb n="2" facs="tcp:108115:2"/>
+               <item>Six Heralds in Coats with Foot-mantles bare-headed, two and two</item>
+               <item>The Lion King at Arms in his Coat, Robe, Collar and Batton Both bare-headed</item>
+               <item>The Usher upon the Lions left hand Both bare-headed</item>
+               <item>The Sword of State born by the Earl of Airth All bare-headed</item>
+               <item>The Scepter born by the Earl of Marr All bare-headed</item>
+               <item>The Crown carried by the Marquess of Douglas All bare-headed</item>
+            </list>
+            <p>Three Macers on each side of the Royal Honours bearing their Maces bare-headed.</p>
+            <p>
+               <hi>The Earl of Drumlanrig bearing the Royal Commission in a Crimson Velvet Bag, bare-headed.</hi>
+            </p>
+            <p>
+               <hi>His Majesties H<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh Commissioner attended with four Knights on foot, two on each side bare, and ushered by his Grace's Secretary and Gentleman of Horse, and attended by Pages and Footmen; And in his return to the Palace, having the High Constable on his right hand, and the Great Marshal on his left, with permission Caps, and in their Robes.</hi>
+            </p>
+            <p>The Duke of Hamilton in his Robes and Collar</p>
+            <p>The Captain of his Majesties Troop of Guards on the head of the Troop, with their Trumpets and Kettle-Drums, all very fine in their new Liveries.</p>
+            <p>The High Commissioner being come to the Constables Guard, his Lordship attended his Grace bare-headed to the Marshals Guard, and then both Constable and Marshal in their Robes with their Battons in their hands attended his Grace up to the Throne. At the utter Door of the Parliament-House the Lord Chan<g ref="char:EOLhyphen"/>cellor and the rest of the Officers of State received his Grace, the Trumpets, He<g ref="char:EOLhyphen"/>ralds and Lion in their Formalities going immediately before the Honours which were carried, as is above set down. At the utter Bar, the Lord Chancellor took the Purse (the Embleme of the Great Seal) in his own hand, and ushered his Grace up to the Throne, where being set, all the Members took their several places, the Bishop of Edinburgh having said Prayers, the Rolls were called by the Lord Register, and then the Lord Chancellor went up to the Throne and received the Royal Commission upon his Knee, which his Lordship delivered to the Clerk Register, who read the same. That being done, his Grace put on his Hat to represent his Royal Masters Soveraign Authority.</p>
+            <p>
+               <hi>The Lord Register reading the Formula, the Lyon King at Arms standing on the steps of the Throne, Fen<g ref="char:EOLhyphen"/>ced he high Court of Parliament in the ordinary manner, and the Members having taken the accustomed Oaths, His Majesties most Gracious Letter to the Parliament, was read, giving them entire Satisfaction. After which his Grace made an excellent Speech to the Parliament, signifying what he had in command from His Majesty to represent to them, and what was expected from them at this meeting extreamly apposite to the greatnest of the Occasion; And which was seconded by my Lord Chancellor in another very Loyal and Eloquent Speech, both which the Parliament desired might be Printed. And it being moved by the Marquis of Athole Lord Privi-Seale, That his Grace might name a Committe for preparing an answer to His Sacred Majesty, He named them accordingly, Viz.</hi>
+            </p>
+            <list>
+               <item>From the Clergy,
+<list>
+                     <item>The two Archbishops</item>
+                  </list>
+               </item>
+               <item>From the Commissioners of Shires
+<list>
+                     <item>The President of the Session,</item>
+                     <item>Sir George Lockhart</item>
+                  </list>
+               </item>
+               <item>From the Nobility
+<list>
+                     <item>The Duke of Hamilton</item>
+                     <item>Earl of Tweddale.</item>
+                     <item>From the Boroughs</item>
+                     <item>The L. Provost of Edinburgh</item>
+                     <item>Provost of Linlithgow</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="3" facs="tcp:108115:2"/>
+            <p>The Patent creating the Lord Register Viscount of Tarbet Lord Mc. Cleod and Castlehaven, was likewise read in Parliament, and delivered to his Lordship.</p>
+            <p>For the Articles were chosen by the Bishops
+<list>
+                  <item>The D. of Hamilton</item>
+                  <item>Marquiss of Douglas</item>
+                  <item>Earl of Errol</item>
+                  <item>Earl Marshal</item>
+                  <item>Earl of Marre</item>
+                  <item>Earl of Strathmore</item>
+                  <item>Earl of Southest</item>
+                  <item>Earl of Tweddale</item>
+               </list>
+            </p>
+            <p>By the Temporal Lords were chosen
+<list>
+                  <item>The two Archbishops</item>
+                  <item>The Bishop of Edinburgh</item>
+                  <item>The Bishop of Galloway</item>
+                  <item>The Bishop of Dunkeld</item>
+                  <item>The Bishop of <hi>Aberdein</hi>
+                  </item>
+                  <item>The Bishop of Cathnes</item>
+                  <item>The Bishop of Breichen</item>
+               </list>
+            </p>
+            <p>Which sixteen Lords Spiritual and Temporal, with the Officers of State (who are still supernumerary in all Committees of Parliament) made choice for the Shires of
+<list>
+                  <item>General Dalyell</item>
+                  <item>President of the Session</item>
+                  <item>Colonel Douglas</item>
+                  <item>Sir <hi>George Lockhart</hi>
+                  </item>
+                  <item>Sir David Balfour of Forret</item>
+                  <item>Sir Thomas Stewart of Balcaskie</item>
+                  <item>Sir William Bruce of Kinrosse</item>
+                  <item>John Boyle of Kelburne</item>
+               </list>
+            </p>
+            <p>And for the Boroughs
+<list>
+                  <item>Sir Geo. Drummond for Edinb.</item>
+                  <item>.... Fletcher for Dundie</item>
+                  <item>Sir George Skein for Aberdein</item>
+                  <item>Alex. Miln for Linlithgow</item>
+                  <item>John Johnson for Glasgow</item>
+                  <item>James Boile for Irving</item>
+                  <item>Sir Pat. Murray for Drumferling</item>
+                  <item>Mr. Ja. Smalet for Dunbarton.</item>
+               </list>
+            </p>
+            <p>The Lord High Commissioner named a Committee for considering the deba<g ref="char:EOLhyphen"/>table Elections, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>For the Clergy
+<list>
+                     <item>Bishop of Edinburgh</item>
+                     <item>Bishop of Rosse</item>
+                     <item>Bishop of Dunblain</item>
+                  </list>
+               </item>
+               <item>For the Shires
+<list>
+                     <item>Sir James Foulis of Redford</item>
+                     <item>Sir Robert Dalyell</item>
+                     <item>Will. Hamilton of Orbistoun</item>
+                  </list>
+               </item>
+               <item>For the Nobility
+<list>
+                     <item>Earl of Wintoun</item>
+                     <item>Earl of Linlithgow</item>
+                     <item>Earl of Belcarras</item>
+                  </list>
+               </item>
+               <item>For the Boroughs
+<list>
+                     <item>Provest of Perth</item>
+                     <item>Provest of St. Andrews</item>
+                     <item>Provest of Culrose</item>
+                  </list>
+               </item>
+            </list>
+            <p>His Majesties High Commissioner recommended to the Articles to meet to morrow at Nine a Clock, and to the Committee for Elections to meet at the same time; and adjourned the Parliament till Tuesday at Ten a Clock in the Forenoon; And so his Grace rode down to the Palace attended in the same manner as is above set down, where his Grace being served in State by the Earl of Wintoun Master of his Majestses Houshold, assisted by the Earls of Traquair, Annandole, and Kintore. At the same time the whole Members of Parliament were magni<g ref="char:EOLhyphen"/>ficiently treated at Supper at several large Tables in the Gallery of the Palace now finished and adorned with
+<pb n="4" facs="tcp:108115:3"/> the Pictures of his Majesties Royal Predecessors from Fergus the First, being <hi>110</hi> Kings. And in regard this day Their Majesties are Crowned in England, and this being his Majesty's first Parliament in Scotland, the day was concluded with ringing of Bells, Bonffires, shooting of great Guns from the Castle, and all other expres<g ref="char:EOLhyphen"/>sions of Joy, and with the great and Universal satisfaction of the whole People who were gathered together in great Crowds from all parts of the Countrey upon this solemn Occusion.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>His Majesties Gracious Letter to the Parliament.</head>
+                  <opener>
+                     <signed>JAMES R. </signed>
+                     <salute>My Lords and Gentlemen,</salute>
+                  </opener>
+                  <p>The many experiences We have had of the Loyalty and Exemplary forwardness of that our Ancient Kingdom, by their representatives in Parliament Assembled, in the Reign of our dearest and most entirely beloved Brother of ever blessed Memory, made Us desierous to call you at this Time in the beginning of our Reign, to to give you an opportunity not only of shewing your Duty to us in the same manner, but likewise of being Ex<g ref="char:EOLhyphen"/>emplary to others in your Demonstra<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ions of Affection to Our Person, and compliance with Our desires, as you have most eminently been in Times past, to a degree never to be forgotten by Us, nor (We hope) to be contradict<g ref="char:EOLhyphen"/>ed by your future Practices, That which We are at this Time to propose unto you, is what is as necessary for your Safety as our Service; and what has a tendency more to secure your own Priviledges and Properties than the Aggrandising our Power and Authority (though in it consisteth the greatest Security of your Rights and Interests, these never daving been in danger except when the Royall Power was brought too low to protect them) which now we are resolved to maintain in its greatest Lustre, to the end we may be the more enabled to Defend and Protect your Religion as Established by Law, and your Rights and Properties (which was our De<g ref="char:EOLhyphen"/>sign in calling this Parliament) against Phanatical Contrivances, Murderers and Assassins, who having no fear of God more than Honour for Us. have brought you into such difficulties as only the bl ssing of God upon the steady Resolutions and Actings of our said dearest Royall Brother, and those employed by him, (in Prosecution of the geod and wholesome Laws by you heretofore offered) could have saved you from the most horrid confusi<g ref="char:EOLhyphen"/>ons and Inevitable Ruin. Nothing has been left unattempted by those wild and inhumane Traytors for Endea<g ref="char:EOLhyphen"/>vouring to overturn your Peace; And therefore we have good Reason to hope, that nothing will be wanting in you to secure your selves and us from their outrages and violence in time coming, and to take care that such con<g ref="char:EOLhyphen"/>spirators meet with their just deservings, so as others may thereby be deterred from courses so little agreeable to Religion, or their Duty and Allegiance to us. These things we considered to be of so great importance to our Roy<g ref="char:EOLhyphen"/>al as well as the Universal interest of that our Kingdom, that we were fully resolved in person to have proposed the needfull Remedies to you but things having so fallen out as render this impossible for us; We have now tho<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ght fit to send our Right. Trusty and Right entirely beloved Cousin and Counsellor <hi>William</hi> Duke of <hi>Queensberry</hi> to be our Commissioner amongst you; of whose Abilities and Qualifications we have reason to be fully satisfied, and of whose Faithfulness to us. and Zeal for our Interest we have had Signal Proofs in the Times of Our greatest difficulties, Him We have fully instructed in all Things Relcating to Our Service, and your own Prosperity and Happiness, and therefore you are to give him intire Trust and Credit as you now see we have done; From whose Prudence and your most Dutifull Affection of Us We have full Confidence of your entire Compliance ard Assistance in all those Matters wherin he is instructed as aforesaid. We do therefore not only recommend unto you that such things be done as are necessary in this Juncture for your own Peace and the support of our Royal Interest, hath at home and abroad, but also that you do them so speedily as may Evidence to the World that you are still in the same manner addicted to the Royal Interest, of which we had so much Experience when amongst you, that we cannot doubt of your full and ample Expressing the same on this occasion; by which the great concern we have in you Our Ancient and kindly People may still encrease, and you may Transmit y<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur Loyal Actions (as Ex<g ref="char:EOLhyphen"/>amples of Duty) to your Posterity. In Full Confidence whereof We do assure you of Our Royal Favour and Pro<g ref="char:EOLhyphen"/>tecti<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n in all your concerns. And so we bid your Heartily Farwell.</p>
+                  <closer>
+                     <dateline>Given at Our Court at <hi>Whitehall</hi>
+                        <date>the <hi>28th.</hi> day of <hi>March 1685,</hi> and of Our Reign the first Year.</date>
+                     </dateline>
+                     <signed>By His Majesties Command. <hi>DRUMMOND:</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="5" facs="tcp:108115:3"/>
+                  <head>The Speech of the Lord High Commissioner.</head>
+                  <opener>
+                     <salute>My Lords and Gentlemen,</salute>
+                  </opener>
+                  <p>HIS Majesty has been pleased so fully and obligingly by the Letter you have now heard to intimate his Royal pleasure to you, as what I am to say feems in a manner superfluous so I need not take up much of your time, nor shall I doe more than touch a few things as briefly as is possible.</p>
+                  <p>And in the first place my Lords, This being the day of His Majesties Coronation in our Neighbouring Kingdom, you see he is no sooner placed on the Throne of his Royall Ancestors than he inclines to have your Advice in what may import the good of his Service and Subjects here, By which you ought not only to be convinced of the great confidence His Majesty has in the Loyalty of this his Ancient Kingdome, And their good Example to his other Dominions, but also how fully he makes good his Royal Word and Declaration, to follow (in his Reign) the Example of his late Majesty of ever glorious Memory under whole Protection and Government we enjoyed so long Peace and Quiet; I say (my Lords) as by calling you so soon, His Majesty expresses great confidence in you, and seems still mindfull of the Zeale and Affection of the last Parliament for the Rights and Prerogative of the Crown, so (in a due return) it is not to be doubted, but you will upon this occasion not only exceed what has been formerly done, but also comply with all that can be proposed for establishing His Majesties Greatness and your own Security, and by this convince the World how sensible you are of the great honour His Majesty has allowed you of being the first Parliament of his Dominions to do so.</p>
+                  <p>I am in the next place to tell you, that His Majesty is very mindfull of the Duty and Loyalty of this Kingdom to his late Majesty and himself, when he was here amongst us: And the better to compose the minds of his faithful Subjects, I am allowed to assure you of his Princely Resolutions to protect and maintain the Religion and Go<g ref="char:EOLhyphen"/>vernment of this Church as they are now Established by Law, and that he will take the Persons and Concerns of the Regular Clergy into his speciall Care and Protection; And in order thereunto, I am to give the Royal As<g ref="char:EOLhyphen"/>sent to such Laws and Acts as can be reasonably proposed</p>
+                  <p>I am likewise to let you know, That His Majesty will concernedly maintain your just Rights and properties according to the Established Laws of this Kingdom, and will not allow of oppressive Arbitrary proceedings in Souldiers or others. And further his Majesty being sensible of the great decay of our Trade, has warranted me in his Royal Name to consent to such Laws as can reasonably be proposed for recovery and improvement thereof</p>
+                  <p>And my Lords, to conclude what I am to say on this Subject, His Majesty is so concerned in the Encourage<g ref="char:EOLhyphen"/>ment, Welfare and prosperity of this his Ancient Kingdom as He will not only do what can justly be disired or expected for these ends, but even in the Business of the Excise and Militia (his immediate concerns) I am warranted to go the greatest lengths for yo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> rease and conveniency that the nature of these things can bear, and His Majesties Service and your own Security will allow.</p>
+                  <p>And my Lords, His Majesty having in all things so evidently discovered his gracious inclinations for the good of this Kingdom and given us the full st assurances of his Favour and Protection that our hearts can de<g ref="char:EOLhyphen"/>sire, what suitable Returns and Acknowledgments can we make to so ex<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ellent and incomparable a Prince? who in all things relating to our quiet and prosperity prevents our very desires; So if during his Reign (which I pray God to make long and glorious) we be not the happiest people in the World, we have only our selves to blame.</p>
+                  <p>And now the King having so fully done his part, is concerns you in the next placet to mind yours; And in or<g ref="char:EOLhyphen"/>der thereunto, I make no doubt but you w<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll assert the Rights and Prerogatives of the Crown, and establish the Revenue as amply upon His Majesty and his Lawfull Success<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs as it was enjoyed by the late King or any of his Royal Predecessors, since you cannot (in the least) doubt but his Royal care for your repose and security will ra<g ref="char:EOLhyphen"/>ther exceed than fall short of any of his Ancestors. But to use any further Arguments to incite you to what is so much your Duty and Interest, were at the same time to question your Loyaltie and Zeal for His Majesties Ser<g ref="char:EOLhyphen"/>vice, and your concern for the interest and honour of your Native Country whose Representatives you are, so I shall not injure you, nor lessen your thanks by saying more upon this Subject.</p>
+                  <p>My Lords, His Majestie certainly expects from the Prudence and Loyaltie of this Parliament, that effectual ways will be fallen upon for destroying that desperate Phanatical and irreclaimable Partie who have brought us to the srink of Ruine and Disgrace, and are no more Rebels against the King than Enemies of Mankind; Wretches of such Monstrous Principles and Practices as past Ages never heard, nor those to come will hardly be<g ref="char:EOLhyphen"/>lieve: What Indemnities and Acts of Grace and Clemency have they not Contemned? And all the use they made of them has still been to harden and confirm them in their execrable Villanies; and how inconsiderable soever they
+<pb n="6" facs="tcp:108115:4"/> appear assure your selves they ought not absolutely to be contemned; for if they had not support and correspon<g ref="char:EOLhyphen"/>dence not yet discovered. It is not to be supposed they could have so long escaped the care and vigilance of the Government: It therefore concerns you both in Honour and Prudence, no longer to dally with them, but that the utmost severities be most effectually applied, and always taken, both to find out their Favourers and retired and secret Haunts.</p>
+                  <p>My Lords, I doubt not but all of you sufficiently know that some of our Nation are deeply involved in the late Horrid Conspiracy, who (and some other for other Treasonable Crimes and Practices) are to be proceeded against before this Parliament; The Evidence of their Guilt I shall leave to its proper Place and Time, and do not doubt but His Majesties Advocate will manage that weighty matter with suitable care and faithfulness So all I shall further say upon this Subject at present is, that if Almighty God (who watches over the security of Princes) had not Miraculously Discovered and disapointed those the most Hellish and Barbarous Designs that were ever con<g ref="char:EOLhyphen"/>trived in Place of that Peace, Happiness, and Tranquilty which we now Enjoy, these Kingdoms had certainly been at this day a Sea of Blood, and in all imaginable Miserie and Desolation; which (being evident beyond denial) will certainly provoke your and all good Mens Indignation and Resentment against those who can be reached, not only as Advisers &amp; Contrivers of such Villanies, but Concealers of them: And since our Honour &amp; Security every ways seems absolutely bound up in the Life of His Sacred Majesty, ought we not most cheerfully to grant what the Exigencies of His mild and gentle Government requires? Especially seeing what we give is still bestowed upon our selves, and for maintaining us in our just Rights &amp; Possessions, against the most cruel and Barbarous Designs of his and our Enemies.</p>
+                  <p>And now my Lords and Gentleman, in the last place touching my self I shall not say much, my unfitness for this Eminent station is possibly more obvious to me than to any of you; however since His Majesty has been Gra<g ref="char:EOLhyphen"/>ciously pleased to place me in it, I am resolved to serve him boldly and firmly, and thereby labour to make up my other great defects: And as this has still been my Practice in the other great trusts I have the Honour to car<g ref="char:EOLhyphen"/>ry under His Majesty, so I know His Goodness will always accept the sincere endearvours of His Servants in place of greater Performances.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Lord High <hi>Chancellor's</hi> Speech.</head>
+                  <opener>
+                     <salute>My Lords and Gentlemen,</salute>
+                  </opener>
+                  <p>AFter what my Lord Commissioner hath so well represented to you, it will be very little necessary for me to say much, I shall only take the liberty to put you in mind, (of what I believe you are very sensible already) of the many obl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gations this Nation lies under to be grateful to our great Monarch.</p>
+                  <p>When by the Command of the late King, His Majesty who now Reigns came first hither, What disorder, divisions, and animosities found he amongst us? To bring the state of things Into your prospect as it was then could not be very grateful to you, nor pleasing to me, but we all remember with joy how well he left us, and by what easy gentle ways he brought about the Establishment of that Unity, which we were begining to despair of.</p>
+                  <p>Since that time, how much we have been in his particular care, during the Happy-Reign of that Excellent Prince His Brother of ever blessed and Glorious Memory, is known to all the world.</p>
+                  <p>But of all the instance of his Majesties Care for us, his Favour towards us, and his good Opinion of us, this of His calling us together in the very beginning of his Reign, (which God grant may be long and prosperous) that we might have the oportunity of present ng Him with the first Fruits of the Service of His Parliaments and be coming Examples to His other dominions, is the greatest and what we should prize the most, improving it as far as it will go.</p>
+                  <p>When we consider what strange turns the extravagant Follies of some, and the malicious develish Contrivan<g ref="char:EOLhyphen"/>ces of others among us have taken, since the last meeting of a Parliament, what Convulsions have attacked the Body of th<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Nation, and how vile a Ferment has raged in it, to have our advice called for by our Prince how to provide proper Remedies for it, is the g eatest Honour could be put upon us,</p>
+                  <p>That we may do what in Duty we are bound in return, let us lay aside all private Aims and Ends; For how can we hope to serve H s Majesty, or promote the Interest of the Nation while our Eye is directed only to<g ref="char:EOLhyphen"/>wards our own particular? and let us with the Frankness and Cheerfulness of Honest SCOTSMEN, use all possible means for uniting of the Nation, and the driving from amongst us, whoever will not joyn with us up on such T<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, as may conduce to the advancement of the Honour and Interest of our K ng and his Crown, and the well being of th<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s our Native Country, which we should not suffer to be defiled and rendred contemp<g ref="char:EOLhyphen"/>tible to the whole world by entertaining so venemous a Bastardly brood of villanous men, as have of late, to the
+<pb n="7" facs="tcp:108115:4"/> reproach of <hi>Scotland,</hi> and of Humane Nature it self maintained Principles, and ventured upon practices not to be named amongst any who have ever heard of a Government, much less of Religion;</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lords and Gentlemen</salute>
+                  </opener>
+                  <p>You all know what a Conspiracy hath been entered into by ill men of both Kingdoms, against the sacred Lives of the late King and his present Majesty; And who but incarnate Devils could think of attempting a<g ref="char:EOLhyphen"/>ny thing against such pre ious Lives? For what Prince in <hi>Europe,</hi> or the whole World, was ever like the Late King, except His Glorious Brother who now Reigns? &amp; to have cut off any of them had been barbarous to a degree of making us appear more abominable than any people ever were, but for us to have lost both, had been our utter ruine. Yet against both was the design laid, and had succeeded, if that watchful Providence, which hath so often preserved the two royal Brothers in so many d<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fficulties, had not defeated the success, by an unfore<g ref="char:EOLhyphen"/>seen accident &amp; had it succeded, what confusion, what cruelty, what blood, what unexpressible Misery had o<g ref="char:EOLhyphen"/>ver flowed these Kingdoms.</p>
+                  <p>But besides this, we have a new sect sprung up amongst us from the Dunghill, the very dregs of the People who kill by pretended Inspiration, and instead of <hi>The Temple of Lord, th<gap reason="illegible" resp="#uom" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Temple of the Lord,</hi> have nothing in their mouths but the word of God, wrest<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng that blessed conveyance of his Holy Will to us, to justifie a pra<g ref="char:EOLhyphen"/>ctice suggested to them by him who was a Murtherer from the beginning, who having moddelled themselves in<g ref="char:EOLhyphen"/>to a Common wealth, (whose Idol is that accursed Paper the Covenant, and whose only rule is to have none at all) have proceeded to declare themselves no longer H s Majesties Subjects, to forfeit all of us who have uhe honour to serve him in any considerable station, and w<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll be sure e're long to do so if not prevented by this great and Honourable Court. It is how to rid our selves of these men, and of all who incline to their Principles, that we are to offer to his Majesty our advice, concurrence, and utmost assistance. These Monsters bring a pub<g ref="char:EOLhyphen"/>like reproach upon the Nation in the Eyes of all our Neighbours abroad, while in their Gazets we are mention<g ref="char:EOLhyphen"/>ed as Acting the vilest Assassinations and the horridest Villanies, they render us unquiet and unsecure at home they bring reproach upon our Religion, and are our great Plague.</p>
+                  <p>Let us for the sake of our Allegiance, for His Majesties Honour, for our Reputation abroad for the vindi<g ref="char:EOLhyphen"/>cation of our Religion, and for our own Peace and Tranquility, make haste to get our <gap reason="illegible" resp="#uom" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ves cured of it</p>
+                  <p>If this were once effectuated, we might yet hope for quiet, and in order to the making quiet more comfor<g ref="char:EOLhyphen"/>table to us, when once we come to a resolution about what relates to the publick peace, and to the respect we owe to His Majesty, we may have occasion of considering what Laws may be necess<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry towards the facilitating the well gorverning of our selves and Native Countrey, both as to the regulating our Carriage one towards a nother, and the securing our Estates, from any thing that may be uneasie, from the distribution of Justice be<g ref="char:EOLhyphen"/>tween man and man, as to the improving of our Trade and Commerce abroad, and encouraging Industry and Frugality at home, for in all these things His Majesties care will not fail us. And my Lord Commissioners a<g ref="char:EOLhyphen"/>mongst h<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s many other advantages, is so well known to be a lover of his Country, that we need not fear, but that he will give his Concurrence in what he is allowed so freely to consent to.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lords and Gentlemen.</salute>
+                  </opener>
+                  <p>To encourage us to do all we can towards the service and the Honour of our Glorious Monarch, let us con<g ref="char:EOLhyphen"/>sider him in all his Personal Advantages, whether in what relates to War or Peace, where has the World afford<g ref="char:EOLunhyphen"/>ed such another? One whose Natural Endowments have been improved by his great experience, at home &amp; a<g ref="char:EOLhyphen"/>broad, in Armies &amp; Courts, by the greatest tryals of the most differing kinds, those of prosperity &amp; success, &amp; of adversity and opposition of hazards and toyle, and of authority and command. Did ever man shew so exact an Honesty, In the strictest adhering to H<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Word; Such Temperance and Sobriety so indefatigable a diligence in Affairs, so undaunted a Courage upon all occasions, and so unwearied a Clemency towards the most obsti<g ref="char:EOLhyphen"/>nate malicious offenders? Did ever Heroe compleat the Character so fully, <gap reason="illegible" resp="#uom" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> overcoming bravely, and shew<g ref="char:EOLhyphen"/>ing gentle<gap reason="illegible" resp="#uom" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ss to the vanquished? And I m<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st say, the Triumphs of his Patience are not His obscurest Glo<g ref="char:EOLhyphen"/>ries; nor is the forgiveing of t<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ose w<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ose virulent Tongues would have tainted h<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Fame, if their malice could have reached it, what is least to be <gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ired in his; what Reputation other Princes have laboured for at the vast expence of Blood and Treasurer, and the putting of a constant constraint upon themselves its so easie upon him what they would have, he forces from the consciences of his very Enemies by his merit, and it costs him no more than to be Himself. But this Theme is not for me, I do H<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m wrong and while it may be at this very mo<g ref="char:EOLhyphen"/>ment, He is receiving the acclamation of his good Subjects, in the chief City of our Neighbour Nation, at th<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="8" facs="tcp:108115:5"/> great Solemnity of his Coronation there, I am detracting from him here, by giving him to low a Character.</p>
+                  <p>I shall onely add, that he gave to Subjects the greatest example of Loyalty and Obedience while He was one Himself, and now He is an example to all Kings in H<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s love, H s Clemency, and care towards his People. Let us give Him the return of our Love, our Fidelity, and our Obedience. And seeing He takes pleasure in nothing so much, as in our fel city and prosperity, let it be an additional tye upon us to advance His Honour and great<g ref="char:EOLunhyphen"/>ness, by all the endeavours of our Lives, without reserve, and with our whole Fortunes, which under His prote<g ref="char:EOLhyphen"/>ssion we may (if we please) so peaceably and com ortably enjoy.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Parliament's A<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>swer to His Majesties Letter.</head>
+                  <opener>
+                     <salute>May it please your Sacred Majesty,</salute>
+                  </opener>
+                  <p>YOUR Majesties gracious and kind remembrance o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Service, <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e by this your ancient <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, to the late <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ever glorious Memory, shall rather raise <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> us ardent desires to exceed what ever we have done formerly than make us consid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r them as deserv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng the Esteem your Majesty is pleased to ex<g ref="char:EOLhyphen"/>press of them, in your Letter to us dated the 28th of <hi>March</hi> The death of that our excellent Monarch is lament<g ref="char:EOLhyphen"/>ed by us to all the degrees of Grief that are consistent with our great Joy for the Succession of your Sacred Ma<g ref="char:EOLhyphen"/>jesty who has not only continued, but secured the Happiness which h s W sdom, His Justice, and Clemency procured to us: And having the honour to be the fi<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st Parliament wh ch meets by your Royal Authority, of which we are very sensible, your Majesty may be confident that we will offer such Laws as may best secure your Majesties Sacred Person, the R<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yal Family and Government, and be so ex<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mplarily Loyal, as to raise your Honour and Greatness to the utmost of our power, which we shall ever esteem both our Duty and Interest Nor shall we leave any thing undone for exti<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pating all Fanaticism, but especially those Fanatical Mur<g ref="char:EOLunhyphen"/>therers and Assassi<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, and for detecting and pun<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>shing the late Conspirators, whose pernicious and execrable designs did so much tend to subvert your Majestie's Government, and ruine us and all your Majesties faithful Subj cts. We can assure your Majesty that the Subjects of this your Majesties ancient Kingdom are so desirous to exceed all their Predecessors in extraordinary marks of Affect on, and Obedience to your Majesty, that (God be praised) the only way to be Popular with us, is to be eminently Loyal your M<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>jesties care of us when you took us to be your special Charge, your W<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sdom in extinguishing the seeds of Rebel ion and Faction amongst us your Justice which was so great, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>to be for ever exem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lary; <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> above all your Majesties free and cheer<g ref="char:EOLhyphen"/>full securing to us our Religion when you were the late King your Royal Brother's Commissi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ner, now again renewed when you are our Soverign, are what your Subjects, here can never forget. And therefore your Ma<g ref="char:EOLhyphen"/>jesty may expect that we will think your Commands sacred as your Person, and t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at your Inclination will pre<g ref="char:EOLhyphen"/>vent our dellates. Nor did ever any who represented our Mona<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>chs as their Com<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>issi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s (except your Roy<g ref="char:EOLhyphen"/>al self) meet with greater respect, or more ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct Obs<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rvance from a Parliament, than <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Duke of <hi>Queensbe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ry</hi> (whom your M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>jesty has so wisely chosen to represent you in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s; and of whose eminent Loyalty, and great abilities in all his Former Employments this Nation hath seen so many proofs) shall find from,</p>
+                  <closer>
+                     <signed>
+                        <hi>May it please your Sacred Majesty, Your Majesties most Humble, most faithful, and most Obedient Subjectt and Servants, In the name of the Parliament</hi> Sic. Sub. Perth Cancell J. . D. Parl.</signed>
+                     <dateline>At <hi>Edinborough</hi>
+                        <date>
+                           <hi>the</hi> 28th <hi>of April</hi> 1685</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <head>DƲBLIN.</head>
+            <p>Re-printed for <hi>Andrew Crook,</hi> and <hi>Samuel Helsham</hi> and are to be Sold by <hi>Samuel Helsham</hi> at the <hi>Colledge Arms</hi> in <hi>Castle-street</hi> 1685.</p>
+            <pb facs="tcp:108115:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
